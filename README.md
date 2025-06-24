@@ -32,3 +32,11 @@ Bienvenido al repositorio oficial del curso de **Redes Neuronales Convolucionale
 - GPU con CUDA => recomendado para acelerar entrenamientos
 
 ---
+
+## 📫 Contacto e Investigación
+
+- 👨‍🏫 **Instructor**: José Alberto Guzmán Torres  
+- 📚 **Google Scholar**: [Perfil Académico](https://scholar.google.com.mx/citations?user=lZA3PrIAAAAJ&hl=es)  
+- 🎥 **YouTube**: [Matemáticas Universitarias](https://www.youtube.com/@matematicasuniversitariasc134)  
+- 💼 **LinkedIn**: [José Alberto Guzmán Torres](https://www.linkedin.com/in/jos%C3%A9-alberto-guzm%C3%A1n-torres-b4224372/)
+---
